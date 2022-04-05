@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Muscleup</string>
+    <string name="muscle1">Perfect Muscle</string>
+    <string name="muscle2">Workout At Home</string>
+    <string name="muscle3">Push Up</string>
+    <string name="muscle4">Pull Up</string>
+    <string name="muscle5">Sit Up</string>
+    <string name="muscle6">Plank</string>
+    <string name="muscle7">Cobra Pose</string>
+    <string name="muscle8">Overhead extension</string>
+    <string name="muscle9">Chin Up</string>
+    <string name="muscle10">Our Suplements</string>
+</resources>
